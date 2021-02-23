@@ -1,0 +1,9 @@
+.alert .alert-danger {
+    height: 55px !important;
+}
+.alert.alert-info {
+    max-height: 55px !important;
+}
+.alert .alert-info .alert-dismissible {
+    max-height: 55px !important;
+}
